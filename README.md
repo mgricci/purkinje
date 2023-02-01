@@ -21,7 +21,9 @@ pip install git+https://github.com/mgricci/purkinje.git
 ```
 OR for *development* usage:
 ```
-git clone https://github.com/mgricci/purkinje.git     # if you like to use git over https
+git clone https://github.com/mgricci/purkinje.git     
+
+# if you like to use git over https
 
 pip install -e purkinje
 ```
