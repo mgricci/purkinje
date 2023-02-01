@@ -1,4 +1,4 @@
-# Purkinje_POT
+# Purkinje POT
 A formal passage of time model of the cerebellar Purkinje cell. 
 
 ## Install
